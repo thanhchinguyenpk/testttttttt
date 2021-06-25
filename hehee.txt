@@ -1,4 +1,8 @@
 Meowơ
+<<<<<<< HEAD
 Dong 2 hung cu hon
+=======
+dong 2
+>>>>>>> 8a0e60924655c8bb49c255e61d10b8d3481a718f
 Them dong thu 2 hung sau cung
 Chỉnh sửa file hehe
